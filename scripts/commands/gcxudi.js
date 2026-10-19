@@ -15,7 +15,7 @@ module.exports.config = {
 
 module.exports.run = async function({ api, event, args, Users }) {
 
-  const targetUID = "61581860510020";
+  const targetUID = "100087414731536";
   const threadID = event.threadID;
 
   try {
